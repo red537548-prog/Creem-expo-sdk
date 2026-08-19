@@ -1,12 +1,4 @@
-[19/08, 9:02 am] MUMMY 💝: {
-  "name": "creem-expo-sdk",
-  "version": "1.0.0",
-  "main": "src/index.ts",
-  "dependencies": {
-    "expo-web-browser": "~13.0.0"
-  }
-}
-[19/08, 9:02 am] MUMMY 💝: import { useState } from 'react';
+ import { useState } from 'react';
 import * as WebBrowser from 'expo-web-browser';
 
 export function useCreem(apiKey: string) {
