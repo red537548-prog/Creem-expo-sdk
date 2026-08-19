@@ -1,0 +1,8 @@
+{
+  "name": "creem-expo-sdk",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "dependencies": {
+    "expo-web-browser": "~13.0.0"
+  }
+}
